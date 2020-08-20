@@ -20,7 +20,7 @@
     <img alt="Made by Eduardo Souza" src="https://img.shields.io/badge/made%20by-Edu%20Souza-%23F8952D">
   </a>
 
-<a> href="https://edusouza-programmer.github.io/>
+ <a href="https://edusouza-programmer.github.io/">
 <img alt="Github page site " src="https://img.shields.io/badge/Github%20page-Site-orange">
 </a>
 
@@ -51,7 +51,7 @@ Com este exercício, você será capaz de:
 ### Dê um título ao seu poema
 
 1. Para praticar os conceitos básicos de HTML, você vai escrever e marcar um poema. Para começar, qual será o título do seu poema?
-   Usando a tag "<h1>" que vimos, adicione um cabeçalho ao seu poema. Esse será o seu título.
+   Usando a tag "h1" que vimos, adicione um cabeçalho ao seu poema. Esse será o seu título.
 
 #### Resposta:
 
