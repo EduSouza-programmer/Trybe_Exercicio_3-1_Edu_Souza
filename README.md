@@ -18,11 +18,11 @@
 
   <a href="https://www.linkedin.com/in/eduardosouzaprogrammer/">
     <img alt="Made by Eduardo Souza" src="https://img.shields.io/badge/made%20by-Edu%20Souza-%23F8952D">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
 
  <a href="https://edusouza-programmer.github.io/">
 <img alt="Github page site " src="https://img.shields.io/badge/Github%20page-Site-orange">
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
   <a href="LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
