@@ -49,6 +49,14 @@ Com este exercício, você será capaz de:
 -   <p><a href="#1">1.</a> Para praticar os conceitos básicos de HTML, você vai escrever e marcar um poema. Para começar, qual será o título do seu poema?
     Usando a tag "h1" que vimos, adicione um cabeçalho ao seu poema. Esse será o seu título.</p>
 
+-   <p><a href="#2">2.</a> O que você quer aprender? Um monte de coisas, eu aposto! Vamos criar uma lista numerada com algumas dessas coisas. Você se lembra de como iniciar uma lista numerada?</p>
+
+-   <p><a href="#3">3.</a> Se você pudesse fazer a viagem perfeita, para onde você iria? Que animais você veria? Que comida você comeria? Adicione imagens à página web após cada tag de parágrafo para compartilhar sua viagem perfeita com o mundo.</p>
+
+-   <p><a href="#4">4.</a> Criamos essa página com as palavras de "Você pode aprender qualquer coisa", um vídeo feito pela Khan Academy. Usando as tags "strong" e "em" que você acabou de aprender, marque o texto para mostrar o que você acha deve ser enfatizado e destacado.</p>
+
+-   <p><a href="#5">5.</a> Essa é uma longa página web que descreve cangurus, e cada título de seção tem um atributo id. Descubra quais são esses atributos id, e então carregue os atributos href dos links na parte superior para que eles apontem para a seção apropriada.</p>
+
 #
 
 ## Questões sobre os desafios [Meus códigos]
@@ -180,7 +188,7 @@ Com este exercício, você será capaz de:
 
 #### Marque o texto
 
--   Criamos essa página com as palavras de "Você pode aprender qualquer coisa", um vídeo feito pela Khan Academy. Usando as tags <strong> e <em> que você acabou de aprender, marque o texto para mostrar o que você acha deve ser enfatizado e destacado.
+-   Criamos essa página com as palavras de "Você pode aprender qualquer coisa", um vídeo feito pela Khan Academy. Usando as tags "strong" e "em" que você acabou de aprender, marque o texto para mostrar o que você acha deve ser enfatizado e destacado.
 
 #### Resposta:
 
@@ -242,9 +250,11 @@ Com este exercício, você será capaz de:
 
 #
 
-### Adicione links internos
+### 5°
 
-5. Essa é uma longa página web que descreve cangurus, e cada título de seção tem um atributo id. Descubra quais são esses atributos id, e então carregue os atributos href dos links na parte superior para que eles apontem para a seção apropriada.
+#### Adicione links internos
+
+-   Essa é uma longa página web que descreve cangurus, e cada título de seção tem um atributo id. Descubra quais são esses atributos id, e então carregue os atributos href dos links na parte superior para que eles apontem para a seção apropriada.
 
 #### Resposta:
 
@@ -290,125 +300,136 @@ Com este exercício, você será capaz de:
 
     </html>
 
+<p align="right"> 
+    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-1/desafio_Pular.html">
+    <img alt="Go index.html" src="https://img.shields.io/badge/Go-index.html-orange">
+    </a>&nbsp;
+    <a href="#Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
+
+#
+
 ### Projeto final
 
-6.  Crie uma página web com suas receitas favoritas! O livro de receitas deve ter uma tabela de conteúdos com links para cada receita abaixo, usando links internos. Cada receita deve ter uma tabela com os ingredientes, uma lista de detalhes, e uma lista e/ou parágrafos dos passos necessários. Se você usar receitas da internet, lembre-se de adicionar um link para o site.
+-   Crie uma página web com suas receitas favoritas! O livro de receitas deve ter uma tabela de conteúdos com links para cada receita abaixo, usando links internos. Cada receita deve ter uma tabela com os ingredientes, uma lista de detalhes, e uma lista e/ou parágrafos dos passos necessários. Se você usar receitas da internet, lembre-se de adicionar um link para o site.
 
-    #### Resposta:
+#### Resposta:
 
-    <!DOCTYPE html>
-    <html>
-        <head>
-            <title>Projeto: livro de receitas</title>
-            <meta charset="utf-8">
-            <style>
-            </style>
-        </head>
-        <body>
+      <!DOCTYPE html>
+      <html>
+          <head>
+              <title>Projeto: livro de receitas</title>
+              <meta charset="utf-8">
+              <style>
+              </style>
+          </head>
+          <body>
 
-            <h1>Livro de receitas do Edu</h1>
-            <p></p>
+              <h1>Livro de receitas do Edu</h1>
+              <p></p>
 
-            <h2>Sumário</h2>
+              <h2>Sumário</h2>
 
-            <ol>
-                <li><a href="#recipe-1">Bolo de chocolate</a></li>
-                <li><a href="#recipe-2">Pão italiano</a></li>
-                <li><a href="#recipe-3">Trança de mini hot dogs</a></li>
-            </ol>
+              <ol>
+                  <li><a href="#recipe-1">Bolo de chocolate</a></li>
+                  <li><a href="#recipe-2">Pão italiano</a></li>
+                  <li><a href="#recipe-3">Trança de mini hot dogs</a></li>
+              </ol>
 
-            <p>Olá tudo bem?!Eu sou o Edu ^^, estou práticando meus conhecimentos em HTML, nesse exerçício maravilhoso.</p>
+              <p>Olá tudo bem?!Eu sou o Edu ^^, estou práticando meus conhecimentos em HTML, nesse exerçício maravilhoso.</p>
 
-            <h2 id="recipe-1">Bolo de chocolate</h2>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sachertorte_DSC03027.JPG" alt="Delicioso bolo de chocolate" width="300">
-            <ul>
-                <li>Tempo: 45min</li>
-                <li>Serve: 7 (pessoas)</li>
-            </ul>
-            <h3>Você vai precisar de:</h3>
+              <h2 id="recipe-1">Bolo de chocolate</h2>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sachertorte_DSC03027.JPG" alt="Delicioso bolo de chocolate" width="300">
+              <ul>
+                  <li>Tempo: 45min</li>
+                  <li>Serve: 7 (pessoas)</li>
+              </ul>
+              <h3>Você vai precisar de:</h3>
 
-            <table>
-                <thead>
-                    <tr>
-                        <th>Quantidades</th>
-                        <th>Ingredientes</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>2 xíc.</td>
-                        <td>de farinha de trigo</td>
-                    </tr>
-                    <tr>
-                        <td>1 colh.(sopa)</td>
-                        <td>de fermento em pó</td>
-                    </tr>
-                    <tr>
-                        <td>1/2 xíc.</td>
-                        <td>cacau em pó 32%</td>
-                    </tr>
-                    <tr>
-                        <td>1/2 xíc.</td>
-                        <td>de açucar mascavo</td>
-                    </tr>
-                    <tr>
-                        <td>1 xíc.</td>
-                        <td>de água (fervida)</td>
-                    </tr>
-                    <tr>
-                        <td>1 xíc.</td>
-                        <td>de açucar</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>ovos</td>
-                    </tr>
-                    <tr>
-                        <td>1 xíc.</td>
-                        <td>de manteiga (temperatura ambiente)</td>
-                    </tr>
-                    <tr>
-                        <td>1 colh.</td>
-                        <td>essência de baunilha</td>
-                    </tr>
-                </tbody>
-            </table>
-            <h3>Para Cobertura:</h3>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Quantidade</th>
-                        <th>Ingredientes</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>4 colh.(sopa)</td>
-                        <td>de leite</td>
-                    </tr>
-                    <tr>
-                        <td>1 colh.(sopa)</td>
-                        <td>de manteiga</td>
-                    </tr>
-                    <tr>
-                        <td>4 colh.(sopa)</td>
-                        <td>de cacau em pó 50%</td>
-                    </tr>
-                    <tr>
-                        <td>2 colh.(sopa)</td>
-                        <td>de açúcar mascavo</td>
-                    </tr>
-                </tbody>
-            </table>
+              <table>
+                  <thead>
+                      <tr>
+                          <th>Quantidades</th>
+                          <th>Ingredientes</th>
+                      </tr>
+                  </thead>
+                  <tbody>
+                      <tr>
+                          <td>2 xíc.</td>
+                          <td>de farinha de trigo</td>
+                      </tr>
+                      <tr>
+                          <td>1 colh.(sopa)</td>
+                          <td>de fermento em pó</td>
+                      </tr>
+                      <tr>
+                          <td>1/2 xíc.</td>
+                          <td>cacau em pó 32%</td>
+                      </tr>
+                      <tr>
+                          <td>1/2 xíc.</td>
+                          <td>de açucar mascavo</td>
+                      </tr>
+                      <tr>
+                          <td>1 xíc.</td>
+                          <td>de água (fervida)</td>
+                      </tr>
+                      <tr>
+                          <td>1 xíc.</td>
+                          <td>de açucar</td>
+                      </tr>
+                      <tr>
+                          <td>3</td>
+                          <td>ovos</td>
+                      </tr>
+                      <tr>
+                          <td>1 xíc.</td>
+                          <td>de manteiga (temperatura ambiente)</td>
+                      </tr>
+                      <tr>
+                          <td>1 colh.</td>
+                          <td>essência de baunilha</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <h3>Para Cobertura:</h3>
+              <table>
+                  <thead>
+                      <tr>
+                          <th>Quantidade</th>
+                          <th>Ingredientes</th>
+                      </tr>
+                  </thead>
+                  <tbody>
+                      <tr>
+                          <td>4 colh.(sopa)</td>
+                          <td>de leite</td>
+                      </tr>
+                      <tr>
+                          <td>1 colh.(sopa)</td>
+                          <td>de manteiga</td>
+                      </tr>
+                      <tr>
+                          <td>4 colh.(sopa)</td>
+                          <td>de cacau em pó 50%</td>
+                      </tr>
+                      <tr>
+                          <td>2 colh.(sopa)</td>
+                          <td>de açúcar mascavo</td>
+                      </tr>
+                  </tbody>
+              </table>
 
-            <p><strong>Preparo:</strong><br><br>Comece misturando o chocolate em pó 32% com o açúcar mascavo e a água fervendo. Quando estiver homogêneo, reserve.<br><br>
+              <p><strong>Preparo:</strong><br><br>Comece misturando o chocolate em pó 32% com o açúcar mascavo e a água fervendo. Quando estiver homogêneo, reserve.<br><br>
 
     Na batedeira, coloque a manteiga com o açúcar e bata até virar um creme branco. Depois, adicione a essência de baunilha, misture um pouco e adicione os ovos um a um, misture um pouco mais. Reserve.<br><br>
     Em outra vasilha, misture a farinha de trigo peneirada com o fermento em pó. Agora vc vai misturar as três vasilhas diferentes. Coloque um pouco da primeira vasilha (chocolate com água e açúcar), um pouco da segunda (a da manteiga e essência de baunilha) e a terceira (farinha e fermento).<br><br>
     Misture suavemente e vá acrescentando as vasilhas de pouco em pouco até acabar tudo. Coloque em uma forma untada em um forno pré aquecido em 180 graus por 40 minutos (faça o teste do palitinho pra ver se tá bom). Misture os ingredientes da cobertura tudo em uma panela até começar a ferver, sempre misturando. Quando ferver, desligue do fogo e despeje sobre o bolo já pronto.<br>
-    </p>
+      </p>
 
-        <p><em>Fonte:<a target="_blank"href="https://www.fleischmann.com.br/">Para mais receitas deliciosas</a></em></p>
+          <p><em>Fonte:<a target="_blank"href="https://www.fleischmann.com.br/">Para mais receitas deliciosas</a></em></p>
 
 
         <h2 id="recipe-2">Pão italiano</h2>
@@ -529,6 +550,17 @@ Com este exercício, você será capaz de:
         </body>
 
     </html>
+
+<p align="right"> 
+    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-1/projeto_Livro-de-receitas.html">
+    <img alt="Go index.html" src="https://img.shields.io/badge/Go-index.html-orange">
+    </a>&nbsp;
+    <a href="#Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
+
+#
 
 ## Licença
 
