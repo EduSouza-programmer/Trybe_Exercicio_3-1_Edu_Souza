@@ -278,6 +278,9 @@ Com este exercício, você será capaz de:
         </p>
     </body>
 </html>
+```
+
+</details>
 
 <p align="right">
     <a
@@ -289,9 +292,6 @@ Com este exercício, você será capaz de:
         <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange" />
     </a>
 </p>
-```
-
-</details>
 
 #
 
@@ -380,6 +380,9 @@ Com este exercício, você será capaz de:
         </p>
     </body>
 </html>
+```
+
+</details>
 
 <p align="right">
     <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-2/desafio_Pular.html">
@@ -389,9 +392,6 @@ Com este exercício, você será capaz de:
         <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange" />
     </a>
 </p>
-```
-
-</details>
 
 #
 
