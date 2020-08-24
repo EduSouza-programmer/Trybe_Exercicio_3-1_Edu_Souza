@@ -661,7 +661,7 @@ Com este exercício, você será capaz de:
 </html>
 ```
 
-</datails>
+</details>
 
 <p align="right"> 
     <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-2/projeto_Livro-de-receitas.html">
