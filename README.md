@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://i.ibb.co/d4W2x4g/trybe.png" width="400px" />
+    <img alt="Imagem Trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="400px" />
 </h1>
 
 <h3 align="center">
@@ -10,18 +10,14 @@
 
 <h1></h1>
 
-<!-- <div>
-  <img src="https://i.ibb.co/S59Z6Hg/Desafio2-2.gif" alt="demo-web" height="425">
-</div> -->
-
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/eduardosouzaprogrammer/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardosouzaprogrammer/">
     <img alt="Made by Eduardo Souza" src="https://img.shields.io/badge/made%20by-Edu%20Souza-%23F8952D">
   </a>&nbsp;
 
- <a href="https://edusouza-programmer.github.io/" target="_blank">
-<img alt="Github page site " src="https://img.shields.io/badge/Github%20page-Site-orange">
+ <a href="https://edusouza-programmer.github.io/">
+<img alt="Github page Edu Souza " src="https://img.shields.io/badge/Github%20page-Edu_Souza-orange">
 </a>&nbsp;
 
   <a href="LICENSE" >
@@ -31,12 +27,12 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-exercicio">Sobre o Exercício</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#Sobre o Exercicio">Sobre o Exercício</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#Entrega">Entrega</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#Licença">Licença</a>
 </p>
 
-## :rocket: Sobre o Exercício
+# :rocket: Sobre o Exercício
 
 Muitas das empresas mais modernas do mundo estão sempre em busca de pessoas desenvolvedoras, e uma das formas de você chamar a atenção delas é ter seu próprio Portfólio Web!
 
@@ -46,12 +42,23 @@ Com este exercício, você será capaz de:
 
 -   Hospedar seu Portfólio Web no GitHub Pages.
 
+# Entrega
+
+## Sumário
+
+-   <p><a href="#1">1.</a> Para praticar os conceitos básicos de HTML, você vai escrever e marcar um poema. Para começar, qual será o título do seu poema?
+    Usando a tag "h1" que vimos, adicione um cabeçalho ao seu poema. Esse será o seu título.</p>
+
+#
+
 ## Questões sobre os desafios [Meus códigos]
 
 ### Dê um título ao seu poema
 
-1. Para praticar os conceitos básicos de HTML, você vai escrever e marcar um poema. Para começar, qual será o título do seu poema?
-   Usando a tag "h1" que vimos, adicione um cabeçalho ao seu poema. Esse será o seu título.
+### 1°
+
+-   Para praticar os conceitos básicos de HTML, você vai escrever e marcar um poema. Para começar, qual será o título do seu poema?
+    Usando a tag "h1" que vimos, adicione um cabeçalho ao seu poema. Esse será o seu título.
 
 #### Resposta:
 
@@ -71,6 +78,17 @@ Com este exercício, você será capaz de:
         </p>
         </body>
     </html>
+
+<p align="right"> 
+    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-1/desafio_Escrever-um-poema.html">
+    <img alt="Site index.html" src="https://img.shields.io/badge/Site-index.html-orange">
+    </a>&nbsp;
+    <a href="#Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
+
+#
 
 ### Inicie uma lista!
 
@@ -219,9 +237,9 @@ Com este exercício, você será capaz de:
 
     </html>
 
-    ### Projeto final
+### Projeto final
 
-    6.  Crie uma página web com suas receitas favoritas! O livro de receitas deve ter uma tabela de conteúdos com links para cada receita abaixo, usando links internos. Cada receita deve ter uma tabela com os ingredientes, uma lista de detalhes, e uma lista e/ou parágrafos dos passos necessários. Se você usar receitas da internet, lembre-se de adicionar um link para o site.
+6.  Crie uma página web com suas receitas favoritas! O livro de receitas deve ter uma tabela de conteúdos com links para cada receita abaixo, usando links internos. Cada receita deve ter uma tabela com os ingredientes, uma lista de detalhes, e uma lista e/ou parágrafos dos passos necessários. Se você usar receitas da internet, lembre-se de adicionar um link para o site.
 
     #### Resposta:
 
@@ -331,6 +349,7 @@ Com este exercício, você será capaz de:
             </table>
 
             <p><strong>Preparo:</strong><br><br>Comece misturando o chocolate em pó 32% com o açúcar mascavo e a água fervendo. Quando estiver homogêneo, reserve.<br><br>
+
     Na batedeira, coloque a manteiga com o açúcar e bata até virar um creme branco. Depois, adicione a essência de baunilha, misture um pouco e adicione os ovos um a um, misture um pouco mais. Reserve.<br><br>
     Em outra vasilha, misture a farinha de trigo peneirada com o fermento em pó. Agora vc vai misturar as três vasilhas diferentes. Coloque um pouco da primeira vasilha (chocolate com água e açúcar), um pouco da segunda (a da manteiga e essência de baunilha) e a terceira (farinha e fermento).<br><br>
     Misture suavemente e vá acrescentando as vasilhas de pouco em pouco até acabar tudo. Coloque em uma forma untada em um forno pré aquecido em 180 graus por 40 minutos (faça o teste do palitinho pra ver se tá bom). Misture os ingredientes da cobertura tudo em uma panela até começar a ferver, sempre misturando. Quando ferver, desligue do fogo e despeje sobre o bolo já pronto.<br>
