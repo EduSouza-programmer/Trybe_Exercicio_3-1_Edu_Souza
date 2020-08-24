@@ -305,7 +305,7 @@ Com este exercício, você será capaz de:
     </html>
 
 <p align="right"> 
-    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-1/desafio_Pular.html">
+    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-2/desafio_Pular.html">
     <img alt="Go index.html" src="https://img.shields.io/badge/Go-index.html-orange">
     </a>&nbsp;
     <a href="#Sumário">
@@ -556,7 +556,7 @@ Com este exercício, você será capaz de:
     </html>
 
 <p align="right"> 
-    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-1/projeto_Livro-de-receitas.html">
+    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-2/projeto_Livro-de-receitas.html">
     <img alt="Go index.html" src="https://img.shields.io/badge/Go-index.html-orange">
     </a>&nbsp;
     <a href="#Sumário">
