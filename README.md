@@ -59,7 +59,7 @@ Com este exercício, você será capaz de:
 
 ### **_Projeto final do dia_**
 
--   <p><a href="#Projeto final">Projeto</a> Essa é uma longa página web que descreve cangurus, e cada título de seção tem um atributo id. Descubra quais são esses atributos id, e então carregue os atributos href dos links na parte superior para que eles apontem para a seção apropriada.</p>
+-   <p><a href="#Projeto final">Projeto:</a> Essa é uma longa página web que descreve cangurus, e cada título de seção tem um atributo id. Descubra quais são esses atributos id, e então carregue os atributos href dos links na parte superior para que eles apontem para a seção apropriada.</p>
 
 #
 
