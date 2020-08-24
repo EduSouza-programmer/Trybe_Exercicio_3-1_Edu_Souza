@@ -44,7 +44,7 @@ Com este exercício, você será capaz de:
 
 # Entrega
 
-## Sumário
+### Sumário
 
 -   <p><a href="#1">1.</a> Para praticar os conceitos básicos de HTML, você vai escrever e marcar um poema. Para começar, qual será o título do seu poema?
     Usando a tag "h1" que vimos, adicione um cabeçalho ao seu poema. Esse será o seu título.</p>
