@@ -203,6 +203,9 @@ Com este exercício, você será capaz de:
         <img src="https://www.kasandbox.org/programming-images/food/sushi.png" alt="Sushi deliciosos" width="400px" />
     </body>
 </html>
+```
+
+</details>
 
 <p align="right">
     <a
@@ -214,9 +217,6 @@ Com este exercício, você será capaz de:
         <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange" />
     </a>
 </p>
-```
-
-</datails>
 
 #
 
