@@ -57,6 +57,10 @@ Com este exercício, você será capaz de:
 
 -   <p><a href="#5">5.</a> Essa é uma longa página web que descreve cangurus, e cada título de seção tem um atributo id. Descubra quais são esses atributos id, e então carregue os atributos href dos links na parte superior para que eles apontem para a seção apropriada.</p>
 
+### **_Projeto final do dia_**
+
+-   <p><a href="#Projeto final">Projeto</a> Essa é uma longa página web que descreve cangurus, e cada título de seção tem um atributo id. Descubra quais são esses atributos id, e então carregue os atributos href dos links na parte superior para que eles apontem para a seção apropriada.</p>
+
 #
 
 ## Questões sobre os desafios [Meus códigos]
@@ -311,7 +315,7 @@ Com este exercício, você será capaz de:
 
 #
 
-### Projeto final
+## Projeto final
 
 -   Crie uma página web com suas receitas favoritas! O livro de receitas deve ter uma tabela de conteúdos com links para cada receita abaixo, usando links internos. Cada receita deve ter uma tabela com os ingredientes, uma lista de detalhes, e uma lista e/ou parágrafos dos passos necessários. Se você usar receitas da internet, lembre-se de adicionar um link para o site.
 
