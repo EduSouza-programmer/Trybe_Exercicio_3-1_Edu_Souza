@@ -81,7 +81,7 @@ Com este exercício, você será capaz de:
 
 <p align="right"> 
     <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-1/desafio_Escrever-um-poema.html">
-    <img alt="Site index.html" src="https://img.shields.io/badge/Site-index.html-orange">
+    <img alt="Go index.html" src="https://img.shields.io/badge/Go-index.html-orange">
     </a>&nbsp;
     <a href="#Sumário">
     <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
@@ -90,9 +90,11 @@ Com este exercício, você será capaz de:
 
 #
 
-### Inicie uma lista!
+### 2°
 
-2. O que você quer aprender? Um monte de coisas, eu aposto! Vamos criar uma lista numerada com algumas dessas coisas. Você se lembra de como iniciar uma lista numerada?
+#### Inicie uma lista!
+
+-   O que você quer aprender? Um monte de coisas, eu aposto! Vamos criar uma lista numerada com algumas dessas coisas. Você se lembra de como iniciar uma lista numerada?
 
 #### Resposta:
 
@@ -116,9 +118,22 @@ Com este exercício, você será capaz de:
     </body>
     </html>
 
-### Adicionar imagens
+<p align="right"> 
+    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-1/desafio_Sua_lista_de_aprendizagem.html">
+    <img alt="Go index.html" src="https://img.shields.io/badge/Go-index.html-orange">
+    </a>&nbsp;
+    <a href="#Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
 
-3. Se você pudesse fazer a viagem perfeita, para onde você iria? Que animais você veria? Que comida você comeria? Adicione imagens à página web após cada tag de parágrafo para compartilhar sua viagem perfeita com o mundo.
+#
+
+### 3°
+
+#### Adicionar imagens
+
+-   Se você pudesse fazer a viagem perfeita, para onde você iria? Que animais você veria? Que comida você comeria? Adicione imagens à página web após cada tag de parágrafo para compartilhar sua viagem perfeita com o mundo.
 
 #### Resposta:
 
@@ -150,9 +165,22 @@ Com este exercício, você será capaz de:
         </body>
     </html>
 
-### Marque o texto
+<p align="right"> 
+    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-1/desafio_Um_viagem_perfeita.html">
+    <img alt="Go index.html" src="https://img.shields.io/badge/Go-index.html-orange">
+    </a>&nbsp;
+    <a href="#Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
 
-4. Criamos essa página com as palavras de "Você pode aprender qualquer coisa", um vídeo feito pela Khan Academy. Usando as tags <strong> e <em> que você acabou de aprender, marque o texto para mostrar o que você acha deve ser enfatizado e destacado.
+#
+
+### 4°
+
+#### Marque o texto
+
+-   Criamos essa página com as palavras de "Você pode aprender qualquer coisa", um vídeo feito pela Khan Academy. Usando as tags <strong> e <em> que você acabou de aprender, marque o texto para mostrar o que você acha deve ser enfatizado e destacado.
 
 #### Resposta:
 
@@ -166,20 +194,34 @@ Com este exercício, você será capaz de:
             <p>
             Nobody’s <em>born</em> smart. We all start at 0. Can’t talk, can’t walk, certainly can’t do algebra.<br>
             Adding, reading, writing, riding a bike. Nobody’s good at anything at first.<br>
+
             There was a time when Einstein couldn’t count to 10.<br>
+
             And Shakespeare had to learn his ABCs just like the rest of us.<br>
+
             <strong>Thankfully, we are born to learn</strong>.<br>
+
             Slowly. Surely. You stumble, slip, crawl, fall and fail and fall.<br>
+
             Frustrating. Confusing. Trying. Struggling.<br>
+
             Until one day, you walk.<br>
+
             One foot in front of the other. One idea on top of the next.<br>
+
             Each wrong answer making your brain a little bit stronger.<br>
+
             Failing is just another word for growing. And you keep going.<br>
+
             This. is. <em>learning</em>.<br>
+
             It’s not that you don’t get it. <br>
+
             You just don’t get it, yet.
             <strong>Because the most beautiful</strong>, complex concepts in the whole universe<br>
+
             are built on basic ideas that anyone, anywhere can understand.<br>
+
             Whoever you are, wherever you are.<br>
             </p>
             <p>
@@ -188,6 +230,17 @@ Com este exercício, você será capaz de:
             </p>
         </body>
     </html>
+
+<p align="right"> 
+    <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-1_Edu_Souza/Parte-1/desafio_Voce-pode-aprender-sobre-tags-de-texto.html">
+    <img alt="Go index.html" src="https://img.shields.io/badge/Go-index.html-orange">
+    </a>&nbsp;
+    <a href="#Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
+
+#
 
 ### Adicione links internos
 
